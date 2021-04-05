@@ -1,0 +1,4 @@
+name: abiduxCore
+version: 1.0
+main: br.com.abidux.core.Core
+author: abidux
